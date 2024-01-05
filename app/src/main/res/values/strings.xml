@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CherryEngineering 2.0</string>
+
+    <string-array name="numbers">
+        <item>&lt;Select Quantity&gt;</item>
+        <item>Half-case</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="productsArray">
+        <item>0.5 MWB</item>
+        <item>1.5 MWB</item>
+        <item>32oz HJ</item>
+        <item>64oz HJ</item>
+        <item>128oz HJ</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="select">Select Item</string>
+</resources>
