@@ -9,7 +9,6 @@ import android.widget.ListView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.kj.cherryengineering20.CompletedCaseQuantityMenu.CompletedCaseQuantityMenu;
 import com.kj.cherryengineering20.R;
 import com.kj.cherryengineering20.employees.EmployeeDatabase;
 

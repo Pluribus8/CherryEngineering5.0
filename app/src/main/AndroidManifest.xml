@@ -28,9 +28,6 @@
             android:name=".InventoryViewer"
             android:exported="false" />
         <activity
-            android:name=".CompletedCaseQuantityMenu.CompletedCaseQuantityMenu"
-            android:exported="false" />
-        <activity
             android:name=".completedCaseActivity.CompletedCaseActivityMenu"
             android:exported="false" />
         <activity
